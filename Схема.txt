@@ -1,0 +1,4 @@
+Схема підключення
+RGB светодіод: GND-GND B-PIN 4 R-PIN 5
+DHT11 датчик: GND-GND VCC- +5V DATA-PIN 2
+Динамік: - на GND,  + на PIN 3
